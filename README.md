@@ -17,10 +17,10 @@ python test.py
 
 ```
 cd mysite/
-python manage.py (*.*.*.*:*)
+python manage.py runserver *.*.*.*:*
 ```
 
-*192.168.\*.\*:\** is your IP address and port which is optional.
+*192.168.\*.\*:\** is your IP address and port which can be queried with instruction 'ifconfig'.
 
 
 
