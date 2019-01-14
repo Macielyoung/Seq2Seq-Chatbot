@@ -99,9 +99,6 @@ def train(data_corpus, batch_size, num_epochs, learning_rate):
     # Init Vars
     sess.run(tf.global_variables_initializer())
 
-    seeds = ["happy birthday",
-            "how are you",
-            "hello"]
     for epoch in range(num_epochs):
         trainX, trainY = shuffle(trainX, trainY, random_state=0)
         total_loss, n_iter = 0, 0
@@ -122,13 +119,6 @@ def train(data_corpus, batch_size, num_epochs, learning_rate):
 
         # printing average loss after every epoch
         print('Epoch [{}/{}]: loss {:.4f}'.format(epoch + 1, num_epochs, total_loss / n_iter))
-        
-        # inference after every epoch
-        for seed in seeds:
-            print("Query >", seed)
-            for _ in range(5):
-                sentence = inference(seed)
-                print(" >", ' '.join(sentence))
         
         # saving the model
         tl.files.save_npz(net.all_params, name='model-cornell.npz', sess=sess)
