@@ -1,5 +1,5 @@
 # Seq2Seq-Chatbot
-Using seq2seq model to train a simple chatbot.
+Using seq2seq model to train a simple greeting chatbot.
 
 ### Training
 
