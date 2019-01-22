@@ -1,0 +1,67 @@
+Category : what greeting
+what's up?|not much.
+what's up?|not too much.
+what's up?|not much, how about you?
+what's up?|nothing much.
+what's up?|nothing special
+what's up?|The usual
+what's up?|just hanging.
+what's up?|I am fine.
+what's up?|I am good
+what's up?|Good, thank you.
+what's up?|You know, just life.
+hi, what's new?|not much.
+hi, what's new?|not too much.
+hi, what's new?|not much, how about you?
+hi, what's new?|nothing much.
+hi, what's new?|nothing special
+hi, what's new?|The usual
+hi, what's new?|just hanging.
+hi, what's new?|I am fine.
+hi, what's new?|I am good
+hi, what's new?|Good, thank you.
+hi, what's new?|You know, just life.
+anything new?|not much.
+anything new?|not too much.
+anything new?|not much, how about you?
+anything new?|nothing much.
+anything new?|nothing special
+anything new?|The usual
+anything new?|just hanging.
+anything new?|I am fine.
+anything new?|I am good
+anything new?|Good, thank you.
+anything new?|You know, just life.
+what's happening?|not much.
+what's happening?|not too much.
+what's happening?|not much, how about you?
+what's happening?|nothing much.
+what's happening?|nothing special
+what's happening?|The usual
+what's happening?|just hanging.
+what's happening?|I am fine.
+what's happening?|I am good
+what's happening?|Good, thank you.
+what's happening?|You know, just life.
+what's going on?|not much.
+what's going on?|not too much.
+what's going on?|not much, how about you?
+what's going on?|nothing much.
+what's going on?|nothing special
+what's going on?|The usual
+what's going on?|just hanging.
+what's going on?|I am fine.
+what's going on?|I am good
+what's going on?|Good, thank you.
+what's going on?|You know, just life.
+what's wrong?|not much.
+what's wrong?|not too much.
+what's wrong?|not much, how about you?
+what's wrong?|nothing much.
+what's wrong?|nothing special
+what's wrong?|The usual
+what's wrong?|just hanging.
+what's wrong?|I am fine.
+what's wrong?|I am good
+what's wrong?|Good, thank you.
+what's wrong?|You know, just life.

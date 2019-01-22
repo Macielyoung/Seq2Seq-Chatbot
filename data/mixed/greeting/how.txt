@@ -1,0 +1,177 @@
+Category : how greeting
+hi, how is it going?|good
+hi, how is it going?|fine
+hi, how is it going?|okay
+hi, how is it going?|great
+hi, how is it going?|could not be better.
+hi, how is it going?|not so great.
+hi, how is it going?|good.
+hi, how is it going?|very well, thanks.
+hi, how is it going?|fine, and you?
+hi, how is it going?|i'm doing well.
+hi, how is it going?|i'm doing well. how are you?
+hi, how is it going?|pretty good, i can't really complain. thank you, and you?
+hi, how is it going?|oh, fine.
+hi, how is it going?|i am ok.
+hi, how is it going?|i am doing great, and you?
+hi, how is it going?|pretty good, thank you.
+hi, how is it going?|great! business is booming.
+hi, how is it going?|It couldn’t be better. i just signed a big contract. i made a lot of money.
+hi, how is it going?|All is well.
+how are you doing?|good
+how are you doing?|fine
+how are you doing?|okay
+how are you doing?|great
+how are you doing?|could not be better.
+how are you doing?|not so great.
+how are you doing?|good.
+how are you doing?|very well, thanks.
+how are you doing?|fine, and you?
+how are you doing?|i'm doing well.
+how are you doing?|i'm doing well. how are you?
+how are you doing?|pretty good, i can't really complain. thank you, and you?
+how are you doing?|oh, fine.
+how are you doing?|i am ok.
+how are you doing?|i am doing great, and you?
+how are you doing?|pretty good, thank you.
+how are you doing?|great! business is booming.
+how are you doing?|couldn’t be better. i just signed a big contract. i made a lot of money.
+how do you do?|good
+how do you do?|fine
+how do you do?|okay
+how do you do?|great
+how do you do?|could be better.
+how do you do?|not so great.
+how do you do?|good.
+how do you do?|very well, thanks.
+how do you do?|fine, and you?
+how do you do?|i'm doing well.
+how do you do?|i'm doing well. how are you?
+how do you do?|pretty good, i can't really complain. thank you, and you?
+how do you do?|oh, fine.
+how do you do?|i am ok.
+how do you do?|i am doing great, and you?
+how do you do?|pretty good, thank you.
+how do you do?|great! business is booming.
+how do you do?|couldn’t be better. i just signed a big contract. i made a lot of money.
+how are you doing?|All is well.
+it's great to see you again! how is life?|good
+it's great to see you again! how is life?|fine
+it's great to see you again! how is life?|okay
+it's great to see you again! how is life?|great
+it's great to see you again! how is life?|could be better.
+it's great to see you again! how is life?|not so great.
+it's great to see you again! how is life?|good.
+it's great to see you again! how is life?|very well, thanks.
+it's great to see you again! how is life?|fine, and you?
+it's great to see you again! how is life?|i'm doing well.
+it's great to see you again! how is life?|i'm doing well. how are you?
+it's great to see you again! how is life?|pretty good, i can't really complain. thank you, and you?
+it's great to see you again! how is life?|oh, fine.
+it's great to see you again! how is life?|i am ok.
+it's great to see you again! how is life?|everyone is fine, thank you.
+it's great to see you again! how is life?|i am doing great, and you?
+it's great to see you again! how is life?|pretty good, thank you.
+it's great to see you again! how is life?|great! business is booming.
+it's great to see you again! how is life?|couldn’t be better. i just signed a big contract. i made a lot of money.
+it's great to see you again! how is life?|All is well.
+how is everything?|good
+how is everything?|fine
+how is everything?|okay
+how is everything?|great
+how is everything?|could be better.
+how is everything?|not so great.
+how is everything?|good.
+how is everything?|very well, thanks.
+how is everything?|fine, and you?
+how is everything?|i'm doing well.
+how is everything?|i'm doing well. how are you?
+how is everything?|pretty good, i can't really complain. thank you, and you?
+how is everything?|oh, fine.
+how is everything?|i am ok.
+how is everything?|everything is fine, thank you.
+how is everything?|i am doing great, and you?
+how is everything?|pretty good, thank you.
+how is everything?|they’re pretty good, thanks.
+how is everything?|great! business is booming.
+how is everything?|couldn’t be better. i just signed a big contract. i made a lot of money.
+hi, laura. long time no see, how's the family?|good
+hi, laura. long time no see, how's the family?|fine
+hi, laura. long time no see, how's the family?|okay
+hi, laura. long time no see, how's the family?|great
+hi, laura. long time no see, how's the family?|could not be better.
+hi, laura. long time no see, how's the family?|not so great.
+hi, laura. long time no see, how's the family?|good.
+hi, laura. long time no see, how's the family?|very well, thanks.
+hi, laura. long time no see, how's the family?|fine, and you?
+hi, laura. long time no see, how's the family?|pretty good, i can't really complain. thank you, and you?
+hi, laura. long time no see, how's the family?|oh, fine.
+hi, laura. long time no see, how's the family?|They are ok.
+hi, laura. long time no see, how's the family?|everyone is fine, thank you, nick.
+hi, laura. long time no see, how's the family?|pretty good, thank you.
+hi, laura. long time no see, how's the family?|they’re pretty good, thanks.
+hi, laura. long time no see, how's the family?|couldn’t be better.
+hi, how are you getting along?|good
+hi, how are you getting along?|fine
+hi, how are you getting along?|okay
+hi, how are you getting along?|great
+hi, how are you getting along?|could not be better.
+hi, how are you getting along?|not so great.
+hi, how are you getting along?|good.
+hi, how are you getting along?|very well, thanks.
+hi, how are you getting along?|fine, and you?
+hi, how are you getting along?|i'm doing well.
+hi, how are you getting along?|i'm doing well. how are you?
+hi, how are you getting along?|pretty good, i can't really complain. thank you, and you?
+hi, how are you getting along?|oh, fine.
+hi, how are you getting along?|i am ok.
+hi, how are you getting along?|everyone is fine, thank you.
+hi, how are you getting along?|i am doing great, and you?
+hi, how are you getting along?|pretty good, thank you.
+hi, how are you getting along?|great! business is booming.
+hi, how are you getting along?|couldn’t be better. i just signed a big contract. i made a lot of money.
+hi, ellen. how are the kids doing?|good
+hi, ellen. how are the kids doing?|fine
+hi, ellen. how are the kids doing?|okay
+hi, ellen. how are the kids doing?|great
+hi, ellen. how are the kids doing?|could not be better.
+hi, ellen. how are the kids doing?|not so great.
+hi, ellen. how are the kids doing?|good.
+hi, ellen. how are the kids doing?|very well, thanks.
+hi, ellen. how are the kids doing?|fine, and you?
+hi, ellen. how are the kids doing?|oh, fine.
+hi, ellen. how are the kids doing?|i am ok.
+hi, ellen. how are the kids doing?|everyone is fine, thank you.
+hi, ellen. how are the kids doing?|pretty good, thank you.
+hi, ellen. how are the kids doing?|they’re pretty good, thanks.
+hi, ellen. how are the kids doing?|couldn’t be better.
+hi, chris. how’s business?|good
+hi, chris. how’s business?|fine
+hi, chris. how’s business?|okay
+hi, chris. how’s business?|great
+hi, chris. how’s business?|could not be better.
+hi, chris. how’s business?|not so great.
+hi, chris. how’s business?|good.
+hi, chris. how’s business?|very well, thanks.
+hi, chris. how’s business?|fine, and you?
+hi, chris. how’s business?|i'm doing well.
+hi, chris. how’s business?|i'm doing well. how are you?
+hi, chris. how’s business?|pretty good, i can't really complain. thank you, and you?
+hi, chris. how’s business?|oh, fine.
+hi, chris. how’s business?|pretty good, thank you.
+hi, chris. how’s business?|great! business is booming. how is your business going?
+hi, chris. how’s business?|couldn’t be better. i just signed a big contract. i made a lot of money.
+how are things in the electronic business?|good
+how are things in the electronic business?|fine
+how are things in the electronic business?|okay
+how are things in the electronic business?|great
+how are things in the electronic business?|could not be better.
+how are things in the electronic business?|not so great.
+how are things in the electronic business?|good.
+how are things in the electronic business?|very well, thanks.
+how are things in the electronic business?|fine, and you?
+how are things in the electronic business?|pretty good, i can't really complain. thank you, and you?
+how are things in the electronic business?|oh, fine.
+how are things in the electronic business?|pretty good, thank you.
+how are things in the electronic business?|great! business is booming. how is your business going?
+how are things in the electronic business?|couldn’t be better. i just signed a big contract. i made a lot of money.

@@ -28,7 +28,7 @@ python manage.py runserver *.*.*.*:*
 
 * Cornell Movie Dataset
 * Twitter Dialog Dataset
-* Mixed Dataset (including cornell, twitter, greeting, history, conversation and so on) maybe will be updated in the future.
+* Mixed Dataset (including cornell, twitter, greeting) maybe will be updated in the future.
 
 
 

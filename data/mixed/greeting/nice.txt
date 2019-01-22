@@ -1,0 +1,25 @@
+Category : nice greeting
+nice to meet you|nice to meet you too.
+nice to meet you|thank you, you too.
+nice to meet you|hello
+nice to meet you|you too
+nice to meet you|same here.
+nice to meet you|you too.
+it's a pleasure to meet you|nice to meet you too.
+it's a pleasure to meet you|thank you, you too.
+it's a pleasure to meet you|hello
+it's a pleasure to meet you|you too
+it's a pleasure to meet you|same here.
+it's a pleasure to meet you|you too.
+it's great to see you again|nice to meet you too.
+it's great to see you again|thank you, you too.
+it's great to see you again|hello
+it's great to see you again|you too
+it's great to see you again|same here.
+it's great to see you again|you too.
+good to see you again|nice to meet you too.
+good to see you again|thank you, you too.
+good to see you again|hello
+good to see you again|you too
+good to see you again|same here.
+good to see you again|you too.

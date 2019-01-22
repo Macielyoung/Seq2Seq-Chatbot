@@ -1,0 +1,21 @@
+Category : hello greeting
+hello|hello
+hello|hi
+hello|hey
+hello|Nice to meet you
+hi|hello
+hi|hi
+hi|hey
+hi|Nice to meet you
+hey|hello
+hey|hi
+hey|hey
+hey|Nice to meet you
+Greetings|hello
+Greetings|hi
+Greetings|hey
+Greetings|Nice to meet you
+Good day|hello
+Good day|hi
+Good day|hey
+Good day|Nice to meet you

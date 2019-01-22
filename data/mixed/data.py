@@ -12,7 +12,7 @@ limit = {
 
 UNK = 'unk'
 # most used vocabulary
-VOCAB_SIZE = 15000
+VOCAB_SIZE = 10000
 
 
 import random
@@ -81,6 +81,56 @@ def get_greetings():
                 else:
                     answ.append(new_line)
     return ques, answ
+
+'''
+    read new greeting dataset, including morning and greeting
+    return two list(questions and answers)
+'''
+def get_morning_greeting():
+    ques, answ = [], []
+    with open('greeting/morning.txt', 'r', encoding='utf-8') as mornreader:
+        for row, line in enumerate(mornreader.readlines()):
+            if row != 0:
+                qa_pair = line.strip('\n').split('|')
+                q = re.sub("[?,.!-]", "", qa_pair[0])
+                a = re.sub("[?,.!-]", "", qa_pair[1])
+                ques.append(q)
+                answ.append(a)
+    with open('greeting/how.txt', 'r', encoding='utf-8') as howreader:
+        for row, line in enumerate(howreader.readlines()):
+            if row != 0:
+                qa_pair = line.strip('\n').split('|')
+                q = re.sub("[?,.!-]", "", qa_pair[0])
+                a = re.sub("[?,.!-]", "", qa_pair[1])
+                ques.append(q)
+                answ.append(a)
+    with open('greeting/what.txt', 'r', encoding='utf-8') as whatreader:
+        for row, line in enumerate(whatreader.readlines()):
+            if row != 0:
+                qa_pair = line.strip('\n').split('|')
+                q = re.sub("[?,.!-]", "", qa_pair[0])
+                a = re.sub("[?,.!-]", "", qa_pair[1])
+                ques.append(q)
+                answ.append(a)
+    with open('greeting/nice.txt', 'r', encoding='utf-8') as nicereader:
+        for row, line in enumerate(nicereader.readlines()):
+            if row != 0:
+                qa_pair = line.strip('\n').split('|')
+                q = re.sub("[?,.!-]", "", qa_pair[0])
+                a = re.sub("[?,.!-]", "", qa_pair[1])
+                ques.append(q)
+                answ.append(a)
+    with open('greeting/hello.txt', 'r', encoding='utf-8') as helloreader:
+        for row, line in enumerate(helloreader.readlines()):
+            if row != 0:
+                qa_pair = line.strip('\n').split('|')
+                q = re.sub("[?,.!-]", "", qa_pair[0])
+                a = re.sub("[?,.!-]", "", qa_pair[1])
+                ques.append(q)
+                answ.append(a)
+    return ques, answ
+
+# get_morning_greeting()
 
 '''
     read history dataset
@@ -328,17 +378,21 @@ def pad_seq(seq, lookup, maxlen):
 
 # get data from multiple datasets
 def process_data():
-    # read from greetings dataset
-    print('\n>> Read lines from greeting file')
-    greetings_q, greetings_a = get_greetings()
+    # read from morning and greeting dataset
+    print('\n>> Read lines from morning and greeting file')
+    greetings_q, greetings_a = get_morning_greeting()
 
-    # read from history dataset
-    print('\n>> Read lines from history file')
-    history_q, history_a = get_history()
+    # # read from greetings dataset
+    # print('\n>> Read lines from greeting file')
+    # greetings_q, greetings_a = get_greetings()
 
-    # read from conversation dataset
-    print('\n>> Read lines from conversation file')
-    conversation_q, conversation_a = get_conversation()
+    # # read from history dataset
+    # print('\n>> Read lines from history file')
+    # history_q, history_a = get_history()
+
+    # # read from conversation dataset
+    # print('\n>> Read lines from conversation file')
+    # conversation_q, conversation_a = get_conversation()
 
     # read from twitter dataset
     print('\n>> Read lines from twitter file')
@@ -359,44 +413,44 @@ def process_data():
     print('\n>> divide lines')
     twitter_q, twitter_a = divide_lines(lines)
 
-    # read from cornell dataset
-    print('\n>> Read lines from cornell file')
-    cornell_id2line = get_id2line()
-    print('>> gathered id2line dictionary from cornell dataset.\n')
-    cornell_convs = get_conversations()
-    print(cornell_convs[121:125])
-    print('>> gathered conversations.\n')
-    cornell_q, cornell_a = gather_dataset(cornell_convs, cornell_id2line)
+    # # read from cornell dataset
+    # print('\n>> Read lines from cornell file')
+    # cornell_id2line = get_id2line()
+    # print('>> gathered id2line dictionary from cornell dataset.\n')
+    # cornell_convs = get_conversations()
+    # print(cornell_convs[121:125])
+    # print('>> gathered conversations.\n')
+    # cornell_q, cornell_a = gather_dataset(cornell_convs, cornell_id2line)
 
     print('Greeting dataset:')
     print(greetings_q[0])
     print(greetings_a[0])
     print(len(greetings_q), len(greetings_a))
 
-    print('History dataset:')
-    print(history_q[0])
-    print(history_a[0])
-    print(len(history_q), len(history_a))
+    # print('History dataset:')
+    # print(history_q[0])
+    # print(history_a[0])
+    # print(len(history_q), len(history_a))
 
-    print('Conversation dataset:')
-    print(conversation_q[0])
-    print(conversation_a[0])
-    print(len(conversation_q), len(conversation_a))
+    # print('Conversation dataset:')
+    # print(conversation_q[0])
+    # print(conversation_a[0])
+    # print(len(conversation_q), len(conversation_a))
 
     print('Twitter dataset:')
     print(twitter_q[0])
     print(twitter_a[0])
     print(len(twitter_q), len(twitter_a))
 
-    print('Cornell dataset:')
-    print(cornell_q[0])
-    print(cornell_a[0])
-    print(len(cornell_q), len(cornell_a))
+    # print('Cornell dataset:')
+    # print(cornell_q[0])
+    # print(cornell_a[0])
+    # print(len(cornell_q), len(cornell_a))
 
     # merge data from all datasets
-    questions = greetings_q + history_q + conversation_q + cornell_q + twitter_q
-    answers = greetings_a + history_a + conversation_a + cornell_a + twitter_a
-    print(len(questions), len(answers))
+    questions = greetings_q + twitter_q
+    answers = greetings_a + twitter_a
+    # print(len(questions), len(answers))
 
     # change to lower case (just for en)
     questions = [ line.lower() for line in questions ]

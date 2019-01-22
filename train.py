@@ -26,8 +26,8 @@ Training model [optional args]
 """
 @click.command()
 @click.option('-dc', '--data-corpus', default='mixed', help='Data corpus to use for training and inference',)
-@click.option('-bs', '--batch-size', default=32, help='Batch size for training on minibatches',)
-@click.option('-n', '--num-epochs', default=50, help='Number of epochs for training',)
+@click.option('-bs', '--batch-size', default=256, help='Batch size for training on minibatches',)
+@click.option('-n', '--num-epochs', default=30, help='Number of epochs for training',)
 @click.option('-lr', '--learning-rate', default=0.001, help='Learning rate to use when training model',)
 
 def train(data_corpus, batch_size, num_epochs, learning_rate):
@@ -121,7 +121,7 @@ def train(data_corpus, batch_size, num_epochs, learning_rate):
         print('Epoch [{}/{}]: loss {:.4f}'.format(epoch + 1, num_epochs, total_loss / n_iter))
         
         # saving the model
-        tl.files.save_npz(net.all_params, name='model-cornell.npz', sess=sess)
+        tl.files.save_npz(net_out.all_params, name='model-greet30.npz', sess=sess)
 
     # session cleanup
     sess.close()

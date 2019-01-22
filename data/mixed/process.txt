@@ -1,0 +1,324 @@
+- - Hello
+  - Hi
+- - Hi
+  - Hello
+- - Greetings!
+  - Hello
+- - Hello
+  - Greetings!
+- - Hi, How is it going?
+  - Good
+- - Hi, How is it going?
+  - Fine
+- - Hi, How is it going?
+  - Okay
+- - Hi, How is it going?
+  - Great
+- - Hi, How is it going?
+  - Could be better.
+- - Hi, How is it going?
+  - Not so great.
+- - How are you doing?
+  - Good.
+- - How are you doing?
+  - Very well, thanks.
+- - How are you doing?
+  - Fine, and you?
+- - Nice to meet you.
+  - Thank you.
+- - How do you do?
+  - I'm doing well.
+- - How do you do?
+  - I'm doing well. How are you?
+- - Hi, nice to meet you.
+  - Thank you. You too.
+- - It is a pleasure to meet you.
+  - Thank you. You too.
+- - Top of the morning to you!
+  - Thank you kindly.
+- - Top of the morning to you!
+  - And the rest of the day to you.
+- - What's up?
+  - Not much.
+- - What's up?
+  - Not too much.
+- - What's up?
+  - Not much, how about you?
+- - What's up?
+  - Nothing much.
+- - What's up?
+  - The sky's up but I'm fine thanks. What about you?
+- - Good morning.
+  - Good morning. You look great today.
+- - Good afternoon.
+  - Good afternoon.
+- - Good evening.
+  - Good evening.
+- - Good night. Have a sweet dream.
+  - Godd night. 
+- - Good morning. You look great today.
+  - Thanks.
+- - It's great to see you again! how is life?
+  - Pretty good, i can't really complain. thank you, and you?
+- - Hi, peter, what's new?
+  - Nothing special
+- - How is everything?
+  - Oh, fine.
+- - How are you doing?
+  - I am ok.
+- - Hi, laura. long time no see, how's the family?
+  - Everyone is fine, thank you, Nick.
+- - Good luck to you.
+  - thank you!
+- - How are you doing?
+  - I am doing great, and you?
+- - Hi, how are you getting along?
+  - Pretty good, thank you.
+- - Well, take it easy. See you later.
+  - You too, bye.
+- - Well, jack. I've got to go now.
+  - Have a nice weekend. see you monday.
+- - Goodbye and good luck
+  - bye.
+- - it’s time i met my girlfriend. i really have to go now.
+  - have fun. goodbye.
+- - hi, tom, long time no see. how have you been?
+  - just fine, thanks.
+- - hello, nancy. nice to see you again. it’s been a long time.
+  - it sure has, sam. i haven’t seen you in ages!
+- - you haven’t changed at all – as pretty as ever!
+  - oh, thank you for saying so.
+- - well, it’s good to see you again.
+  - same here.
+- - hi, there. my name’s paul brown. i’m from the united states.
+  - nice to meet you, paul. my name’s kelly cook. you can call me kelly. i’m from canada.
+- - i don’t think we’ve met before. my name’s sam.
+  - no, i don’t think so either. nice to meet you. i’m ann.
+- - hi, beautiful day, isn’t it?
+  - it sure is.
+- - Hi, Ellen. How are the kids doing?
+  - They’re pretty good, thanks.
+- - how’s your work going?
+  - just great, thanks for asking.
+- - hi, chris. how’s business?
+  - great! business is booming. how is your business going?
+- - how are things in the electronic business?
+  - couldn’t be better. i just signed a big contract. i made a lot of money.
+- - Goodbye, Mr. Smith. I hope you’ll have a pleasant trip home.
+  - Thanks. I had a wonderful time here.
+- - Well, Daniel, I’m afraid I have to say good-bye now. The train leaves in fifteen minutes.
+  - I wish you didn’t have to leave so soon. Have a nice trip!
+- - Thanks. I’m looking forward to seeing you again soon.
+  - Me, too. Take care.
+- - Oh, they are calling the passengers to board the plane now. Thank you so much for seeing me off. Goodbye.
+  - Goodbye. Have a good flight! Say hello to your wife for me.
+- - thank you very much for a wonderful evening.
+  - it was a pleasure having you. please come again.
+- - excuse me, i’ve got to go now. thank you for inviting me. i had a really good time.
+  - thank you for coming. please come to visit us again soon.
+- - well, i’m afraid i really have to be going. thank you for everything.
+  - already? i had wanted to talk to you a little more.
+- - i wish you all the best with your new career.
+  - thank you very much.
+- - good luck with your job interview!
+  - thank you. i’ll try my best.
+- - hope things go well with your law office.
+  - thank you. we are dealing with a tough case now.
+- - Have a happy Easter, Jim.
+  - Thank you! The same to you, Mary.
+- - Happy birthday, Jenny! This is for you.
+  - Thank you. Oh, it's lovely! 
+- - Hello, Nick. Merry Christmas and Happy New Year!
+  - The same to you.
+- - We wish you every success in the coming year!
+  - Thank you. May the New Year bring your family happiness and good health!
+- - I’m going to get married.
+  - Congratulations!
+- - I heard you won the first place in the Speech Contest. Congratulations!
+  - Thank you, It was very unexpected.
+- - I must congratulate you on your promotion!
+  - Thank you very much.
+- - You’ve done excellent work.
+  - Thank you for saying that.
+- - thank you for everything.
+  - you’ re welcome.
+- - i really appreciate your help. i couldn’t have done it without you. you’re so kind.
+  - don’t mention it. i’m glad to do it.
+- - you know, i keep forgetting to thank you for lending me your car.
+  - oh, it was nothing.
+- - you look great in your new coat.
+  - really? thanks. i just bought it yesterday.
+- - jim, your knowledge of chinese is really surprising.
+  - oh, you are flattering me. i think my chinese is terrible.
+- - you know, you really did a good job on this project.
+  - thanks a lot. a compliment from you really means something because i really respect your experience.
+- - No, I can’t climb the rest of this mountain. It’s too steep.
+  - Come on! You can do it.
+- - I just can’t make my pronunciation perfect.
+  - Don’t give up! You’re doing fine.
+- - I think English grammar is the most difficult thing for me.
+  - Don’t let it get you down. You’ll make progress if you keep working on it.
+- - I don’t know what’s wrong with me. I can’t seem to do anything right these days.
+  - Come on! There’s no reason to feel discouraged. Everyone has a rough day from time to time.
+- - i’m sorry i got angry at you at the party.
+  - that’s ok. i know you’ve been upset lately.
+- - i’m extremely sorry for breaking your plate.
+  - oh, don’t worry about it. it’s not important.
+- - oh, excuse me. i just spilled my coffee on your carpet.
+  - that’s all right.
+- - i must apologize for having kept you waiting so long, but i was in a traffic jam.
+  - no problem. i can understand.
+- - i’d like to apologize for behaving rudely at your party last night.
+  - it’s all right.
+- - do you like chinese food?
+  - yes, i love it.
+- - i’m crazy about beef noodles.
+  - really? me, too.
+- - what’s your favorite sport?
+  - i enjoy swimming.
+- - i don’t like your talking to me like that.
+  - i’m sorry. i can’t help it!
+- - do you like this painting?
+  - well, it’s really not to my taste.
+- - do you like rainy days?
+  - no, i hate them. i’m always in a bad mood when it rains.
+- - what do you usually do in your spare time?
+  - no, of course not.
+- - are you going to the english party tonight?
+  - i am sorry to say i can’t. i have plans with my friend.
+- - excuse me. are you ok?
+  - i’m not sure.
+- - oh, no! can i do anything to help?
+  - no, that’s ok. i think i’ll be all right.
+- - well, here. let me help you up.
+  - thanks. you’re very kind.
+- - would you like me to help you move that desk?
+  - no, that’s ok. i can move it myself.
+- - would you care for a cup of tea?
+  - yes, please. that would be great.
+- - Are you interested in foreign languages?
+  - Yes, I am. I have been studying English and Japanese for years.
+- - believe me. i’ll do my best to help you, and i won’t let you down.
+  - ok. i take your word for it.
+- - i have made up my mind to improve my poor english.
+  - let’s make it together.
+- - i’m going to alaska.
+  - wow! that’s fantastic!
+- - i’m very excited by the news that stone broke the world record.
+  - he really is an amazing athlete.
+- - Are you feeling better now?
+  - Yes, much better.
+- - Do you think we’ll succeed?
+  - I have complete confidence in our success.
+- - excuse me, could you tell me if you accept credit cards?
+  - yes, certainly.
+- - Tom’s father passed away. He was just over 40.
+  - Oh, How terrible for Tom. I’m so sorry.
+- - What’s the matter with your brother?
+  - He failed in business.
+- - can i see your parents sometime tomorrow?
+  - sorry, they are too busy these days.
+- - how about this weekend?
+  - yes, i think so.
+- - how about sunday morning?
+  - sounds good.
+- - what's the weather today?
+  - it is rainy today.
+- - what's the weather today?
+  - it is sunny today and we can go hiking.
+- - what's the weather today?
+  - it is snowy and we can have a snowball fight.
+- - how's the weather today?
+  - it rains and you need to take an umbrella.
+- - how's the weather today?
+  - Today is windy.
+- - Beautiful day, isn't it？
+  - Yes, it's not like what the radio said at all.
+- - I really don't think this weather will last.
+  - Let's just hope it doesn't get cold again.
+- - It looks it's going to be sunny.
+  - Yes, it's much better than yesterday. 
+- - I think it's going to be a nice day. 
+  - It's certainly a big improvement over yesterday.
+- - What's the weather forecast for today
+  - Cloudy in the morning, overcast in the afternoon.
+- - Any rain？
+  - No, but I wouldn't be surprised if it rained tomorrow.
+- - What's the weather forecast for tomorrow?
+  - It's supposed to snow early tomorrow morning and then tomorrow afternoon there's a chance of freezing rain.
+- - Merry Christmas! 
+  - The same to you!
+- - Happy New Year!
+  - Thank you! Same to you.
+- - Have a nice Thanksgiving!
+  - Same to you!
+- - Have a nice weekend!
+  - Thanks. You too!
+- - Are you going anywhere?
+  - I thought about going to my sister's. How about you?
+- - julie, may i have a word with you, please?
+  - sorry, i'm a bit tied up at the moment. can we talk later?
+- - Oh? Where were you?
+  - Palm Springs. I've got a cousin there.
+- - Oh, really? Where did you go? 
+  - Los Angeles. I stayed with my brother.
+- - I think it's going to be a nice day.
+  - It's certainly a big improvement over yesterday.
+- - excuse me, what time is it now?
+  - i think it's about 6:45 pm.
+- - what date is it today?
+  - today's monday.
+- - we've been expecting you all night. where have you been?
+  - oh, i'm really sorry. i got lost.
+- - are you free on sunday?
+  - yes, i don't have any plans yet.
+- - What a beautiful sweater!
+  - Thank you.
+- - Excuse me, Can you tell me where Main Street is?
+  - Turn left at the second light and then go straight for two blocks.
+- - Is it far?
+  - No. It's only a five-minute walk.
+- - Thanks a lot.
+  - You are welcome.
+- - Thank you.
+  - You are welcome.
+- - Could you please tell me how to get to the station?
+  - Turn left at the first light.
+- - Will it take me long to get there?
+  - No. It's not far at all.
+- - Is it too far to walk?
+  - No. It's only a little ways.
+- - Can you order one for me?
+  - Certainly. Just give me your name and address.
+- - Can you help me?
+  - Of course.
+- - Did you want anything else?
+  - No, thanks.
+- - What is the weather today?
+  - The weather is terrible.
+- - What is the weather today?
+  - The sun is shining.
+- - What is the weather tomorrow?
+  - It is going to be fine tomorrow.
+- - What do you think about this store?
+  - I love this store! The only problem is that it's extremely expensive.
+- - You don't look too well. Maybe you should take the day off from work.
+  - I couldn't do that. I have an important meeting to go to today.
+- - Do you feel ok?
+  - Not really.
+- - Would you like to come over for dinner tonight?
+  - Sure, but I have to tell you that I've become a vegetarian. I don't eat any kind of meat.
+- - How do you get enough protein in your diet?
+  - Well, I eat a lot more tofu, beans, nuts and some fish.
+- - Here is a present for you.
+  - Thank you very much.
+- - Your knowledge of English is really surprising.
+  - I appreciate the compliment.
+- - Good afternoon.
+  - good afternoon, my friend.
+- - How do you do?
+  - Morning, Nice to see you.
+- - Would you please do me a favor?
+  - No problem. What can me do for you?
+- - I’m very grateful for your help.
+  - My pleasure.
